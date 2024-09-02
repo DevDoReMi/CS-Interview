@@ -69,3 +69,10 @@
 📍[this의 용법](https://github.com/DevDoReMi/CS-Interview/tree/main/FrontEnd/4/this의_용법.md)
 </div>
 </details>
+
+<details>
+<summary>this의 용법에 대해 아는대로 설명해주세요.</summary>
+<div>
+📍[this의 용법](https://github.com/DevDoReMi/CS-Interview/tree/main/FrontEnd/4/this의_용법.md)
+</div>
+</details>
