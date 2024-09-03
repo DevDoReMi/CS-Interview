@@ -4,7 +4,6 @@
 
 1. [position 속성](#position-속성)
 2. [용어 공부](#용어-공부)
-3. [session-storage](#session-storage)
 
 ## position 속성
 
