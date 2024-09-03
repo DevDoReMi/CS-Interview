@@ -5,6 +5,7 @@
 1. [Contributors](#Contributors)
 2. [Computer Architecture](#Computer-Architecture)
 3. [FE](#front-end)
+4. [BE]
 
 ## Contributors
 
@@ -44,5 +45,14 @@
 <summary>브라우저 저장소의 차이점에 대해 설명해주세요.</summary>
 <div>
 📍[LocalStorage-SessionStorage-Cookie-차이](https://github.com/DevDoReMi/CS-Interview/tree/main/FrontEnd/4/브라우저_저장소의_차이점.md)
+</div>
+</details>
+
+## Back-End
+
+<details>
+<summary>JVM의 구조에 대해 설명해주세요.</summary>
+<div>
+📍[JVM의 구조](https://github.com/DevDoReMi/CS-Interview/tree/main/BackEnd/JAVA/JVM의_구조.md) 
 </div>
 </details>
