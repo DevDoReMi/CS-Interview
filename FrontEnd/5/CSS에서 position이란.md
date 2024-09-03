@@ -65,3 +65,4 @@ CSS의 `position` 속성은 문서 상에 요소를 배치하는 방법을 지�
 참고자료
 
 https://developer.mozilla.org/ko/docs/Web/CSS/position
+https://github.com/Esoolgnah/Frontend-Interview-Questions/blob/main/Notes/important-5/position.md
