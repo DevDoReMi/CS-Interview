@@ -56,3 +56,10 @@
 📍[JVM의 구조](https://github.com/DevDoReMi/CS-Interview/tree/main/BackEnd/JAVA/JVM의_구조.md) 
 </div>
 </details>
+
+<details>
+<summary>JDK와 JRE의 차이점에 대해 설명해주세요.</summary>
+<div>
+📍[JDK vs JRE](https://github.com/DevDoReMi/CS-Interview/tree/main/BackEnd/JAVA/JDK%20vs%20JRE.md)
+</div>
+</details>
