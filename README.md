@@ -56,11 +56,26 @@
 </details>
 
 <details>
+<summary>Restful API에 대해 아는대로 설명해주세요. (GET, PUT, POST, PATCH, OPTION, DELETE)</summary>
+<div>
+📍[Restful-API](https://github.com/DevDoReMi/CS-Interview/tree/main/FrontEnd/4/Restful_API.md)
+</div>
+</details>
+
+<details>
+<summary>JavaScript는 어떤 언어인가요?</summary>
+<div>
+📍[Restful-API](https://github.com/DevDoReMi/CS-Interview/tree/main/FrontEnd/4/JavaScript는_어떤_언어일까.md)
+</div>
+</details>
+
+<details>
 <summary>JavaScript에서 비동기적으로 코딩하는 법을 알려주세요.</summary>
 <div>
 📍[자바스크립트에서 비동기적으로 코딩하기](https://github.com/DevDoReMi/CS-Interview/tree/main/FrontEnd/4/자바스크립트에서_비동기적으로_코딩하기.md)
 </div>
 </details>
+
 <details>
 <summary>Event Loop에 대해 알고 계신가요?</summary>
 <div>
@@ -90,4 +105,3 @@
 📍[객체지향 프로그래밍](https://github.com/DevDoReMi/CS-Interview/tree/main/BackEnd/JAVA/객체지향-프로그래밍이란.md) 
 </div>
 </details>
-
