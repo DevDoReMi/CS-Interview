@@ -63,3 +63,10 @@
 📍[JDK vs JRE](https://github.com/DevDoReMi/CS-Interview/tree/main/BackEnd/JAVA/JDK%20vs%20JRE.md)
 </div>
 </details>
+
+<details>
+<summary>객체지향 프로그래밍에 대해 설명해주세요.</summary>
+<div>
+📍[객체지향 프로그래밍](https://github.com/DevDoReMi/CS-Interview/tree/main/BackEnd/JAVA/객체지향-프로그래밍이란.md) 
+</div>
+</details>
