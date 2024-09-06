@@ -48,6 +48,13 @@
 </div>
 </details>
 
+<details>
+<summary>JavaScript에서 비동기적으로 코딩하는 법을 알려주세요.</summary>
+<div>
+📍[자바스크립트에서 비동기적으로 코딩하기](https://github.com/DevDoReMi/CS-Interview/tree/main/FrontEnd/4/자바스크립트에서_비동기적으로_코딩하기.md)
+</div>
+</details>
+
 ## Back-End
 
 <details>
