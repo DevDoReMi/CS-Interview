@@ -54,6 +54,12 @@
 📍[자바스크립트에서 비동기적으로 코딩하기](https://github.com/DevDoReMi/CS-Interview/tree/main/FrontEnd/4/자바스크립트에서_비동기적으로_코딩하기.md)
 </div>
 </details>
+<details>
+<summary>Event Loop에 대해 알고 계신가요?</summary>
+<div>
+📍[Event Loop](https://github.com/DevDoReMi/CS-Interview/tree/main/FrontEnd/4/event_loop.md)
+</div>
+</details>
 
 ## Back-End
 
